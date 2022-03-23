@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SankiLokno
 - 👀 I’m interested in 
-            <width> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
               
 - 🌱 I’m currently learning Python & Data Science
 - 📫 How to reach me https://twitter.com/SankiLokno
