@@ -5,7 +5,7 @@
 - 📫 How to reach me: <a href="https://www.twitter.com/SankiLokno" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> ///  <a href="https://www.linkedin.com/in/luciano-fidelis-365633231/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-<img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankilokno&layout=compact&langs_count=7&theme=dracula"/>
+
 <a href="https://github.com/SankiLokno"> 
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SankiLokno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
