@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m @SankiLokno </h1>
+<h1 align="center"> 👋 Olá, sou @SankiLokno </h1>
 
 - 👀 I’m interested in Data Science | Back End | Machine Learning 
 
