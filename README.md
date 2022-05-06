@@ -1,18 +1,21 @@
 <h1 align="center"> 👋 Olá, sou @SankiLokno </h1>
 
-- 👀 I’m interested in Data Science | Back End | Machine Learning 
+- 👀 Meus interesses são: Data Science | Back End | Machine Learning 
 
+- Linguagens que gosto:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50" height="50" />
+ 
+- 💻 Linguagem que estou aprendendo: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="50" height="50" />
+         
           
           
           
           
           
            
-          
-- 📫 How to reach me: <a href="https://www.twitter.com/SankiLokno" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+##          
+- 🔗 Redes: <a href="https://www.twitter.com/SankiLokno" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 ##
 
 
